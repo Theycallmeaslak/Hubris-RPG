@@ -5,9 +5,19 @@ Hubris is playable with just basics but also contain some optional systems. Even
 
 Hubris aims to be **atomic**. You should not need to know anything until it comes up, and will be informed then. A weapon or spell should not say "stun" and make you go searching for the conditions table. It should say "stun" (unable to move or take any actions for X turns) right there on the spell or weapon. 
 
-As with any ttrpg, you're free to just use these rules as guidelines rather than follow them to the letter.
+As with any TTRPG, these rules are just guidelines. Modify and expand as you see fit.
 
 *"An idiot admires complexity, a genius admires simplicity"* - Terry Davis
+
+___
+## Tools required for play
+
+* A copy of the rules
+* A set of the polyhedral dice, D4, D6, D8, D12 and D20
+	* Having extra is more convenient but not required 
+* Pencils, Pens, Erasers and such 
+* A character sheet 
+* A couple of friends
 
 ___
 ## Setting
@@ -24,8 +34,9 @@ ___
 - There is no alignment. Player characters are driven by both vice and virtue.  
 - There are no classes. Character identity and playstyle is derived from stats.
 - **ALL** Rolls are 1d20 + the relevant stat(s), unless otherwise specified.
-- Gold is the universal currency.
-- There are 3 languages supported mechanically. Common, Underworld and Cryptic. 
+- Hacksilver is the universal currency.
+- Spells are not learned on level up, they have to be found in the world.
+- There are 3 languages. Common, Underworld and Cryptic. 
 	- Common is known to all PCs from the start.
 	- Underworld is spoken by creatures dwelling very deep in the dungeons. 
 	  (as a rule of thumb, if a creature has never seen daylight it only speaks underworld) 
@@ -34,9 +45,7 @@ ___
 	* Cryptic are runes and markings left by unknown creatures. 
 	  It can never be learned, only deciphered in small portions at a time.
 
-There aren't any skill proficiencies, skill checks use raw stats. Employ common sense to determine what skill is used.
-
-There is no "to hit" rolls. You only roll for damage. Attacks just hit presuming the target does not successfully roll for evasion. Damage is reduced directly with armor. 
+There is no "to hit" rolls. You only roll for damage. Attacks just hit presuming the target does not successfully roll for evasion. Damage is reduced directly with armor. 1 armor reduces damage by 1. It can also be variable like 1d4 armor.
 
 HP is 1+d4, then increases by 1+d4 every level up.
 You start with 1 in all stats, then you gain 2 stat points to invest as you wish at every level.
@@ -44,13 +53,14 @@ You start with 1 in all stats, then you gain 2 stat points to invest as you wish
 ___
 ## Stats
 There are four stats: STRength, DEXterity, INTelligence and CHArisma. 
-Here is a breif overview. More can be learnt on the main page of each stat. Each section also includes rules that are universal, but tangentially related to their stats.
+Here is a brief overview. More can be learnt on the main page of each stat. Each section also includes rules that are universal, but tangentially related to their stats.
 
-- In STRength you'll find rules for carry weight and party inventory
+- In STRength you'll find rules for carry weight and party inventory.
 - in DEXterity you'll find rules for Evasion, Stealth and Crit.
-- in INTelligence you'll find rules for spells, Spell misfires, Potions, Crytpic and mysterious items.
+- in INTelligence you'll find rules for spells, Spell misfires, Potions, Cryptic and mysterious items.
 - in CHArisma you'll find rules for Underworld, Mercy and Trade.
 ##### STRength 
+- Main article: [[STRength]]
 - STR governs which armor and weapons you can use. 
 - STR is added to ALL damage rolls.
 - STR governs how much you can carry.
@@ -58,11 +68,13 @@ Here is a breif overview. More can be learnt on the main page of each stat. Each
 - You can use strength to smash doors and break open chests.
 - Athletic feats. Rowing. Carrying. Swimming. Climbing.
 ##### DEXterity
+- Main article [[DEXterity]]
 - Dex governs Critical Hit chance and Critical Hit Damage.
 - Dex governs Evasion.
 - Dex governs Stealth.
 - Dex governs anything difficult you might do with your hands like lock picking.
 ##### INTelligence
+- Main article [[INTelligence]]
 * INT governs how many spells you can have equipped (up to 3).
 * INT governs the level of spell you can cast without incurring additional miscast penalties.
 * INT is used for lore skill-checks
@@ -70,23 +82,29 @@ Here is a breif overview. More can be learnt on the main page of each stat. Each
 * INT is used to decipher cryptic runes.
 * INT is used to learn the properties of potions and mysterious artefacts.
 ##### CHArisma
+- Main article [[CHArisma]]
 - CHArisma is used to beg for mercy.
 - CHArisma is gives better prices with vendors.
 - CHArisma lets you easier negotiate favors and services.
 - CHArisma lets you negotiate with SOME creatures.
 - CHArisma is used to gain knowledge from oral sources
 - CHArisma is used to learn to speak underworld
-___
 
-## Misc. rules
-Miscellanious rules that didn't really fit neatly in any if the stat pages.
+___
+## Other mechanics
+Miscellaneous rules that didn't really fit neatly in any if the stat pages.
 ##### Resting
 Characters can take short and long rests. 
-- Short rests take 1 hour and restore half hp 
-- Long rests take 7 hours and restore max hp
-You can only take 1 short race in between every long rest.
-##### Perception
-There is no variable passive preception. If you want more information you have inspect loose rocks, or take an extra second to stand and listen. No bonuses are added to preception rolls. Being wiser doesn't grant you bigger ears after all.
+- Short rests take 1 hour and restore 1d4 hp. 
+- Long rests take 7 hours and restore 2d6 hp.
+You can only take 1 short rest in between every long rest.
+If a long rest is interrupted it counts as a short rest.
 ##### Leveling and XP
 Leveling can be done through a myriad ways, but here is a suggestion:
 It takes 1 session to reach level 2, 2 sessions to reach 3, 3 sessions to reach 4, and so on. Characters can be different level in the same party.
+##### Karma
+When you fail a roll you get one point of karma. 
+You can expend 1 karma to add 1 to any d20 skill check.
+
+___
+[[Words, definitions and clarifications]]
